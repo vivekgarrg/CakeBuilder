@@ -6,6 +6,79 @@
     margin:0;
     padding:0;
 }
+.top
+{
+    background-color: brown;
+    height: 10vh;
+}
+.middle
+{
+    background-color: purple;
+    height: 60vh;
+}
+.bottom
+{
+    background-color: brown;
+    height: 30vh;
+}
+.price
+{
+    border: 2px solid gray;
+}
+
+.bill
+{
+    border: 2px solid gray;
+}
+
+.btn
+{
+    background-color: purple;
+    margin: 60px;
+    border-color: white;
+    color: white;
+}
+#buy{
+    background-color: green;
+}
+#layer1{
+    width: 245px;
+    height: 25px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer2{
+    width: 200px;
+    margin-left: 22px;
+    height: 25px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer3{
+    width: 160px;
+    height: 25px;
+    margin-left: 44px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer4{
+    width: 120px;
+    margin-left: 66px;
+    height: 25px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+
+#layer5{
+    width: 80px;
+    margin-left: 88px ;
+    height: 25px;
+    border-radius: 20%;
+    visibility: hidden;
+}
 
 /* Fill your code*/
 
